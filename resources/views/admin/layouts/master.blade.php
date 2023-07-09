@@ -79,7 +79,7 @@
   </div>
   <!-- /.content-wrapper -->
   <footer class="main-footer">
-    <strong>Copyright &copy; 2014-2021 <a href="https://adminlte.io">Mohammed Naji</a>.</strong>
+    <strong>Copyright &copy; 2014-2021 <a href="https://adminlte.io">Dev-Muhanna</a>.</strong>
     All rights reserved.
   </footer>
 
